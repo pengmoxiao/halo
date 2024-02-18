@@ -10,7 +10,7 @@
           "cpu": 1,
           "mem": 1,
           "serviceName": "halo",
-          "servicePath": "/",
+          "servicePath": "/halo",
           "uploadType": "package",
           "containerPort": 8090,
           "volumeMounts": {
