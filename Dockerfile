@@ -1,3 +1,3 @@
-FROM registry.hub.docker.com/halohub/halo:latest
+FROM 00ilqodp.mirror.aliyuncs.com/halohub/halo:latest
 
 RUN ln -s ~/.halo /opt/.halo
